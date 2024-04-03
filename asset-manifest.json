@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/project02pictureSearch/static/css/main.fec514b9.css",
+    "main.css": "/project02pictureSearch/static/css/main.ad448d00.css",
     "main.js": "/project02pictureSearch/static/js/main.b5020496.js",
     "static/media/pexels-daian-gan-102127.jpg": "/project02pictureSearch/static/media/pexels-daian-gan-102127.77c3ae0c418e877b3549.jpg",
     "static/media/pexels-sk-814133.jpg": "/project02pictureSearch/static/media/pexels-sk-814133.36ffcf219c6b1a338924.jpg",
     "static/media/pexels-dương-nhân-1120049.jpg": "/project02pictureSearch/static/media/pexels-dương-nhân-1120049.e693726df92db441602e.jpg",
     "static/media/pexels-eberhard-grossgasteiger-844297.jpg": "/project02pictureSearch/static/media/pexels-eberhard-grossgasteiger-844297.cd803d17b4e59b547ffb.jpg",
     "index.html": "/project02pictureSearch/index.html",
-    "main.fec514b9.css.map": "/project02pictureSearch/static/css/main.fec514b9.css.map",
+    "main.ad448d00.css.map": "/project02pictureSearch/static/css/main.ad448d00.css.map",
     "main.b5020496.js.map": "/project02pictureSearch/static/js/main.b5020496.js.map"
   },
   "entrypoints": [
-    "static/css/main.fec514b9.css",
+    "static/css/main.ad448d00.css",
     "static/js/main.b5020496.js"
   ]
 }
