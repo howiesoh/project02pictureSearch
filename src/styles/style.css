@@ -201,10 +201,10 @@ nav ul li {
   border-radius: 5px;
 }
 
-/* .imgContainer {
+.imgContainer {
   width: 100%;
   animation: imgAni 0.75s;
-} */
+}
 
 .pictures .picture .imgContainer img {
   width: 100%;
